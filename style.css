@@ -1,0 +1,9 @@
+.picker {
+	position: static;
+	background-color: rgb(200,200,200);
+	top: 610px;
+}
+
+body {
+	cursor: se-resize;
+}
